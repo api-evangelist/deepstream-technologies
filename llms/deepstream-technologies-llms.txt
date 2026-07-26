@@ -1,0 +1,35 @@
+# DeepStream Technologies
+
+> DeepStream is an AI-enhanced eSourcing and source-to-contract platform for mid-market procurement teams, headquartered in London, UK. It digitalizes buyer-to-supplier sourcing with best-of-breed eRFx, supplier discovery, pre-qualification, eAuctions, contract management, and AI RFP generation and analytics. This is a company profile in the API Evangelist network; DeepStream does not currently publish a public developer API, OpenAPI specification, or developer documentation.
+
+## Company
+- [Website](https://www.deep.stream/): DeepStream eSourcing platform home
+- [About](https://www.deep.stream/about): Company background and team
+- [Packages / Pricing](https://www.deep.stream/plans): RFx Basic and RFx Advanced plans plus add-on modules
+- [Contact](https://www.deep.stream/contact): Contact and demo request
+
+## Products
+- [RFx software](https://www.deep.stream/rfx-software-features/rfx): Request management and evaluation
+- [Supplier Discovery](https://www.deep.stream/rfx-software-features/supplier-discovery): AI supplier discovery
+- [Supplier Pre-Qualification](https://www.deep.stream/rfx-software-features/supplier-pre-qualification): Onboarding questionnaires
+- [eAuctions](https://www.deep.stream/rfx-software-features/eauctions): Electronic auctions
+- [Contract Management](https://www.deep.stream/rfx-software-features/contract-management): Contract lifecycle
+- [AI RFP Generation](https://www.deep.stream/rfx-software-features/ai-rfp-generation): Automated RFP building
+- [AI Analytics](https://www.deep.stream/rfx-software-features/ai-analytics): Conversational source-to-contract analytics
+- [Management Reporting](https://www.deep.stream/rfx-software-features/management-reporting): Reporting
+- [Integrations](https://www.deep.stream/rfx-software-features/integrations): ERP / PO system data integrations (delivered as a service)
+
+## Support & Resources
+- [Knowledge Base / Help Center](https://knowledge.deepstreamtech.com/): Buyer, Supplier, Product, and Troubleshooting hubs
+- [Login](https://onboarding.deepstreamtech.com/login): Customer application sign in
+- [Blog](https://www.deep.stream/blog): Procurement insights
+- [Insights](https://www.deep.stream/resources/insights): Articles and thought leadership
+- [Case Studies](https://www.deep.stream/resources/case-studies): Customer stories
+- [Guides](https://www.deep.stream/resources/guides): Downloadable guides
+- [FAQs](https://www.deep.stream/faqs): Frequently asked questions
+
+## Legal
+- [Terms of Service](https://www.deep.stream/terms-of-service): Terms of service
+- [Privacy Policy](https://www.deep.stream/privacy): Privacy policy
+- [Data Processing Agreement](https://www.deep.stream/dpa): DPA
+- [End User Terms of Service](https://www.deep.stream/end-user-terms-of-service): End user ToS

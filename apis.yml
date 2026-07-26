@@ -1,8 +1,14 @@
 aid: deepstream-technologies
 name: DeepStream Technologies
-description: DeepStream Technologies is a company surfaced as a portfolio company of techstars and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: DeepStream Technologies (deep.stream) is a London-based AI-enhanced eSourcing and
+  source-to-contract platform for mid-market procurement teams. It digitalizes buyer-to-supplier
+  sourcing with best-of-breed eRFx, supplier discovery, supplier pre-qualification, eAuctions,
+  contract management, management reporting, and AI-driven RFP generation and conversational
+  analytics, aiming to help procurement teams work faster, reduce risk, and gain visibility while
+  keeping implementation simple. Customers include Walkers Shortbread, BrewDog, Abbott, and Free Now.
+  DeepStream does not currently publish a public developer API, OpenAPI specification, or developer
+  documentation; integrations with ERP and PO systems are delivered as a service. This profile was
+  surfaced as a Techstars portfolio company and enriched with public company and infrastructure signals.
 url: https://raw.githubusercontent.com/api-evangelist/deepstream-technologies/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +16,32 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://cdn.prod.website-files.com/62976fe97a37b9ac906d6603/68c19244954839ddd8fcbaeb_new%20thumbnail%20website.png
 tags:
 - Company
+- Procurement
+- eSourcing
+- RFx
+- Source-to-Contract
+- Supply Chain
+- Sourcing
+- Contract Management
+- SaaS
+- AI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +49,31 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/deepstream-technologies-domain-security.yml
+- type: LLMsTxt
+  url: llms/deepstream-technologies-llms.txt
 - type: Website
-  url: https://deepstreamtech.com/
+  url: https://www.deep.stream/
+- type: Support
+  name: Knowledge Base / Help Center
+  url: https://knowledge.deepstreamtech.com/
+- type: Blog
+  url: https://www.deep.stream/blog
+- type: Pricing
+  url: https://www.deep.stream/plans
+- type: Login
+  url: https://onboarding.deepstreamtech.com/login
+- type: GitHubOrganization
+  url: https://github.com/deepstreamtech
+- type: TermsOfService
+  url: https://www.deep.stream/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.deep.stream/privacy
+- type: Contact
+  url: https://www.deep.stream/contact
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
