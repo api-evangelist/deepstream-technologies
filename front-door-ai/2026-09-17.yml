@@ -1,0 +1,26 @@
+# Front Door AI Index — deepstream-technologies — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: deepstream-technologies
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.deep.stream
+  final_host: www.deep.stream
+  ownership: own
+  owner: deepstream-technologies
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 5
+  host_score: 5
+  density: 1.55
+  words: 3232
+  tiers:
+    agentic: 0
+    core: 5
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 5
+    smart: 1
