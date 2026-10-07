@@ -1,0 +1,34 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.deep.stream/plans
+sources:
+- https://www.deep.stream/plans
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: false
+note: No numeric prices; both plans say 'Speak to our team'. Page states pricing is per full user, per
+  year with unlimited stakeholder seats, plus separately priced add-on modules.
+plan_count: 2
+plans:
+- name: RFx Basic
+  price_text: Speak to our team
+  period: none
+  unit: per full user, per year
+  included_quota: Unlimited simple RFx events; unlimited suppliers and stakeholders; two-stage events,
+    audit trail, reporting; named CSM and HyperCare support
+- name: RFx Advanced
+  price_text: Speak to our team
+  period: none
+  unit: per full user, per year
+  included_quota: Everything in Basic, plus multi-stage RFPs, lots, BAFO, supplier discovery, SSO, bespoke
+    workflow build
+  overage: Add-on modules priced separately
