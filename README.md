@@ -64,6 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DeepStream Technologies is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+DeepStream Technologies (deep.stream) is a London-based AI-enhanced eSourcing and source-to-contract platform for mid-market procurement teams. It digitalizes buyer-to-supplier sourcing with best-of-breed eRFx, supplier discovery, supplier pre-qualification, eAuctions, contract management, management reporting, and AI-driven RFP generation and conversational analytics, aiming to help procurement teams work faster, reduce risk, and gain visibility while keeping implementation simple. Customers include Walkers Shortbread, BrewDog, Abbott, and Free Now. DeepStream does not currently publish a public developer API, OpenAPI specification, or developer documentation; integrations with ERP and PO systems are delivered as a service. This profile was surfaced as a Techstars portfolio company and enriched with public company and infrastructure signals.
 
-Backed by: techstars — https://deepstreamtech.com/
+**Areas:** Company · Procurement · eSourcing · RFx · Source-to-Contract · Supply Chain · Sourcing · Contract Management · Software-as-a-Service · Artificial Intelligence
+
+## DeepStream Technologies on APIs.io
+
+Everything profiled for DeepStream Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/deepstream-technologies/](https://apis.io/providers/deepstream-technologies/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Deepstream Technologies Domain Security](https://apis.io/security/deepstream-technologies/deepstream-technologies-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Deepstream Technologies Plans Pricing](https://apis.io/plans/deepstream-technologies/deepstream-technologies-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.deep.stream/)
+- [Pricing](https://www.deep.stream/plans)
+- [Support](https://knowledge.deepstreamtech.com/)
+- [Blog](https://www.deep.stream/blog)
+- [Terms of service](https://www.deep.stream/terms-of-service)
+- [Privacy policy](https://www.deep.stream/privacy)
+- [GitHub](https://github.com/deepstreamtech)
+
+## API Evangelist rating
+
+**Kin Score 18.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 59.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/deepstream-technologies/](https://apis.io/providers/deepstream-technologies/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DeepStream Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/deepstream-technologies/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
